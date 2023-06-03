@@ -1,0 +1,45 @@
+@media (min-width: 1400px) {
+    .container{
+        max-width: 1140px;
+    }
+}
+/* Product */
+.product{
+    padding: 150px 0px 10px 0px;
+    background-color: rgb(242,244,247);
+}
+.image-fluid{
+    width: 100%;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+
+/* About */
+.about-image{
+    width: 80px;
+}
+
+/* Features */
+.feature{
+    background-color: rgb(242, 244, 247);
+}
+.feature-image{
+    width: 100%;
+}
+
+/* Result */
+.results-img div img{
+    width: 80px;
+}
+
+/* Reviews */
+.carousel-item img{
+    width: 60px;
+}
+
+/* Pricing */
+.pricing-image{
+    width: 120px;
+}
